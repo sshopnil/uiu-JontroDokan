@@ -10,6 +10,7 @@
         <link rel="icon" href=".././assets/images/favicon.png">
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/anotherStyle.css" rel="stylesheet" />
     <link rel="stylesheet" href=".././assets/fonts/bootstrap-icons.css">
     <link rel="stylesheet" href=".././assets/sass/main.css">
     <link rel="stylesheet" href=".././recycle/css/style.css">
